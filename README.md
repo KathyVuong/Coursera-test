@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <title>First Assignment</title>
-        <!--<link  rel="stylesheet" href="check.css">-->
+        <link  rel="stylesheet" href="css.css">
     </head>
 
     <body>
